@@ -1,4 +1,5 @@
 *.py[cod]
+nutrients.db
 
 # C extensions
 *.so
